@@ -1,6 +1,8 @@
 # cSEM
 Composite-Based Structural Equation Modeling Use cSEM With (In) R Software
 
+https://www.youtube.com/watch?v=jnLxld6IkHk
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
